@@ -1,0 +1,80 @@
+{
+  "main": {
+    "id": "04d90511340222a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d83d4c3ded05762",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Weekend Projects/Next.js.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8bcd5e1901cafea",
+    "type": "split",
+    "children": [
+      {
+        "id": "91b33fb9102b7b3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aca41b19ec1c2c8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f38fe2a33eb72fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244
+  },
+  "right": {
+    "id": "04b8dca2bfaf425d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf9e0bd8efacee0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24a895dbd2f31e70",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Weekend Projects/Next.js.md",
+    "Community/listening-party.md",
+    "Untitled.md",
+    "listening-party.md"
+  ]
+}
