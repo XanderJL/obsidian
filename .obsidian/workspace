@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Weekend Projects/Next.js.md",
+            "file": "Aluminum Associates/Color Picker.md",
             "mode": "source"
           }
         }
@@ -46,8 +46,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244,
-    "collapsed": true
+    "width": 244
   },
   "right": {
     "id": "04b8dca2bfaf425d",
@@ -62,7 +61,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Aluminum Associates/Color Picker.md"
+              }
             }
           }
         ]
@@ -73,9 +74,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Aluminum Associates/Color Picker.md",
+    "Untitled.md",
     "Weekend Projects/Next.js.md",
     "Community/listening-party.md",
-    "Untitled.md",
     "listening-party.md"
   ]
 }

@@ -29,7 +29,7 @@
 
 		```
 	- edit `package.json` in root folder to look like this:
-		```js
+		```json
 		{
 		  "name": "blmlondon-next",
 		  "version": "1.0.0",
@@ -68,6 +68,8 @@
 	- `git checkout -b develop`
 	- `git push -u origin develop`
 	- onto the fun part!
-1. spin up dev server
+1. Guess we should set up Apollo for our data layer
+	- 
+2. spin up dev server
 	- `yarn workspace site dev`
 		- your local server should have spun up on http://localhost:3000
